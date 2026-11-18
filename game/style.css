@@ -1,0 +1,5 @@
+html, body { margin: 0; padding: 0; background: #05030d; }
+body { display: flex; justify-content: center; font-family: "Segoe UI", system-ui, sans-serif; }
+main { padding: 10px 0 4px; text-align: center; }
+canvas { display: block; background: #070412; border: 2px solid #3b1d6e; border-radius: 8px; max-width: 98vw; height: auto; }
+.hint { color: #9d8fc9; font-size: 13px; margin: 6px 0 0; }
